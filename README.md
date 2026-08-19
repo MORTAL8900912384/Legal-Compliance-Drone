@@ -40,6 +40,10 @@ Run `python test_engine.py` for a quick headless correctness check of the FOL
 engine (unification, forward chaining, backward chaining) independent of the
 graphics.
 
+## Demo Video
+
+[Watch the demo](https://drive.google.com/file/d/1fWf1lDj7d4uwKS-seKDWStTpLofIWbN9/view?usp=sharing)
+
 ## The scenario
 
 ```
